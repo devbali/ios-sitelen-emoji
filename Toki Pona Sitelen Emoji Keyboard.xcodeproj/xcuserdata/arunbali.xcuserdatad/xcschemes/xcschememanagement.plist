@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Sitelen Emoji Keyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Toki Pona Emoji Keyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Toki Pona Sitelen Emoji Keyboard.xcscheme</key>
 		<dict>
 			<key>orderHint</key>

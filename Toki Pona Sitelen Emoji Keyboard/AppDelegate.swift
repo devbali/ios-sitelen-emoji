@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Toki Pona Sitelen Emoji Keyboard
 //
-//  Created by ARUN BALI on 29/04/20.
+//  Created by Dev Bali on 29/04/20.
 //  Copyright © 2020 Awara Badal Developments. All rights reserved.
 //
 
