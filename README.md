@@ -1,6 +1,9 @@
 # Toki Pona Sitelen Emoji Keyboard
 An XCode Project to build an iOS app that provides a Sitelen Emoji Keyboard, to write Toki Pona using only emojis
 
+![Image](https://lh3.googleusercontent.com/RLfGZACuhnPI1B6n96nZ_qbPfJN8alI-fLpNyh7-8eDR0bHJQYVVrnvojWFBVZmGhsqaR6xYhNftJ5_yhYXNEZ-6UeL6zKlmLwX3c153RzBrqndMIM8J=w1280 "iOS app running")
+The iOS app running
+
 ## How it Works
 - This is a keyboard for Toki Pona, a constructed language that only has about 120 words in the entire language
 - Sitelen Emoji assigns each word to an Emoji. The emoji set is democratic and changes via referendum frequently.
