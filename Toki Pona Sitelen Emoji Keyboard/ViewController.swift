@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet var mainbutton: UIButton!
     
     @objc func gotosettings () {
-        let url = URL.init(string: UIApplicationOpenSettingsURLString + "prefs:root=General&path=Keyboard/KEYBOARDS")
+        let url = URL.init(string: UIApplicationOpenSettingsURLString)
         if url != nil {
             UIApplication.shared.open(url!, options: [:], completionHandler: nil)
         }
