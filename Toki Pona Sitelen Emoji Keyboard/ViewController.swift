@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         self.mainbutton.titleLabel?.numberOfLines = 10
         self.mainbutton.titleLabel?.textAlignment = .center
-        self.mainbutton.setTitle("Click to enable the Sitelen Emoji Keyboard in your settings\n\nIn the Settings page, click Add Keyboard and select Sitelen Emoji", for: [])
+        self.mainbutton.setTitle("Click to enable the Sitelen Emoji Keyboard in your settings\n\nOn the Settings screen, click General > Keyboard > Keyboards > Add New Keyboard... and select Toki Pona Emoji Keyboard under Third-Party Keyboards", for: [])
         self.mainbutton.addTarget(self, action: #selector(gotosettings), for: .allTouchEvents)
 
     }
